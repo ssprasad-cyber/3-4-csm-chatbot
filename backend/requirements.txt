@@ -1,6 +1,0 @@
-Flask==2.3.2
-Flask-Cors==3.0.10
-spacy==3.6.1
-logging  # No need to install; it’s part of Python’s standard library.
-re  # No need to install; it’s part of Python’s standard library.
-sqlite3  # No need to install; it’s part of Python’s standard library.
