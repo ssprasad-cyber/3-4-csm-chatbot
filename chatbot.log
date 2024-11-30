@@ -1,0 +1,214 @@
+2024-11-28 13:34:08,017 - INFO - Processing query from user123: list all students
+2024-11-28 13:34:08,018 - INFO - Returning list of students for user123
+2024-11-28 13:34:08,019 - INFO - Processing query from user123: who are the students?
+2024-11-28 13:34:08,019 - INFO - Returning list of students for user123
+2024-11-28 13:34:08,019 - INFO - Processing query from user123: show all students
+2024-11-28 13:34:08,020 - INFO - Returning list of students for user123
+2024-11-28 13:34:08,020 - INFO - Processing query from user123: can you list all the students?
+2024-11-28 13:35:26,186 - INFO - Processing query from user123: list all students
+2024-11-28 13:35:26,187 - INFO - Returning list of students for user123
+2024-11-28 13:35:26,187 - INFO - Processing query from user123: who are the students?
+2024-11-28 13:35:26,188 - INFO - Returning list of students for user123
+2024-11-28 13:35:26,188 - INFO - Processing query from user123: show all students
+2024-11-28 13:35:26,189 - INFO - Returning list of students for user123
+2024-11-28 13:35:26,189 - INFO - Processing query from user123: can you list all the students?
+2024-11-28 13:35:40,275 - INFO - Processing query from user123: who are the students?
+2024-11-28 13:35:40,275 - INFO - Returning list of students for user123
+2024-11-28 13:35:40,276 - INFO - Processing query from user123: show all students
+2024-11-28 13:35:40,277 - INFO - Returning list of students for user123
+2024-11-28 13:35:40,277 - INFO - Processing query from user123: can you list all the students?
+2024-11-28 13:35:50,270 - INFO - Processing query from user123: show all students
+2024-11-28 13:35:50,270 - INFO - Returning list of students for user123
+2024-11-28 13:35:50,271 - INFO - Processing query from user123: can you list all the students?
+2024-11-28 13:35:57,049 - INFO - Processing query from user123: can you list all the students?
+2024-11-28 13:37:47,462 - INFO - Processing query from user123: list all students
+2024-11-28 13:37:47,463 - INFO - Returning list of students for user123
+2024-11-28 13:37:47,464 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:37:47,516 - INFO - Fuzzy matching found name for query: what is the roll number of prasad?
+2024-11-28 13:37:47,516 - INFO - Roll number for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:37:47,516 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:37:47,558 - INFO - Fuzzy matching found name for query: what is the cgpa of prasad?
+2024-11-28 13:37:47,558 - INFO - CGPA for Challa Abishek fetched for user123
+2024-11-28 13:37:47,558 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:37:47,559 - INFO - Batch 2024 students fetched for user123
+2024-11-28 13:37:47,559 - INFO - Processing query from user123: what are the certifications of roll number 5221412046?
+2024-11-28 13:37:47,664 - INFO - Fuzzy matching found name for query: what are the certifications of roll number 5221412046?
+2024-11-28 13:37:47,666 - INFO - Roll number for Pati susmitha  fetched for user123
+2024-11-28 13:37:47,667 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:37:47,802 - INFO - Fuzzy matching found name for query: what are the skills of prasad?
+2024-11-28 13:37:47,803 - INFO - Skills for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:37:47,803 - INFO - Processing query from user123: list the projects of prasad.
+2024-11-28 13:37:47,912 - INFO - Fuzzy matching found name for query: list the projects of prasad.
+2024-11-28 13:37:47,913 - INFO - Projects for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:37:47,917 - INFO - Processing query from user123: where does prasad live?
+2024-11-28 13:37:47,920 - INFO - Processing query from user123: what is the attendance of prasad?
+2024-11-28 13:37:47,921 - ERROR - Error processing query: what is the attendance of prasad?. Error: 'MiniNLPChatbot' object has no attribute 'handle_attendance_query'
+2024-11-28 13:37:47,921 - INFO - Processing query from user123: what department is prasad in?
+2024-11-28 13:37:47,922 - ERROR - Error processing query: what department is prasad in?. Error: 'MiniNLPChatbot' object has no attribute 'handle_department_query'
+2024-11-28 13:37:47,940 - INFO - Processing query from user123: what is the date of birth of roll number 46?
+2024-11-28 13:37:48,074 - INFO - Fuzzy matching found name for query: what is the date of birth of roll number 46?
+2024-11-28 13:37:48,074 - INFO - Roll number for Pati susmitha  fetched for user123
+2024-11-28 13:38:48,099 - INFO - Processing query from user123: list all students
+2024-11-28 13:38:48,100 - INFO - Returning list of students for user123
+2024-11-28 13:38:48,100 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:38:48,148 - INFO - Fuzzy matching found name for query: what is the roll number of prasad?
+2024-11-28 13:38:48,148 - INFO - Roll number for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:38:48,149 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:38:48,195 - INFO - Fuzzy matching found name for query: what is the cgpa of prasad?
+2024-11-28 13:38:48,195 - INFO - CGPA for Challa Abishek fetched for user123
+2024-11-28 13:38:48,195 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:38:48,196 - INFO - Batch 2024 students fetched for user123
+2024-11-28 13:38:48,196 - INFO - Processing query from user123: what are the certifications of  5221412046?
+2024-11-28 13:38:48,250 - INFO - Fuzzy matching found name for query: what are the certifications of  5221412046?
+2024-11-28 13:38:48,250 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:38:48,297 - INFO - Fuzzy matching found name for query: what are the skills of prasad?
+2024-11-28 13:38:48,297 - INFO - Skills for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:38:48,298 - INFO - Processing query from user123: list the projects of prasad.
+2024-11-28 13:38:48,366 - INFO - Fuzzy matching found name for query: list the projects of prasad.
+2024-11-28 13:38:48,366 - INFO - Projects for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:38:48,367 - INFO - Processing query from user123: where does prasad live?
+2024-11-28 13:38:48,368 - INFO - Processing query from user123: what is the attendance of prasad?
+2024-11-28 13:38:48,368 - ERROR - Error processing query: what is the attendance of prasad?. Error: 'MiniNLPChatbot' object has no attribute 'handle_attendance_query'
+2024-11-28 13:38:48,368 - INFO - Processing query from user123: what department is prasad in?
+2024-11-28 13:38:48,369 - ERROR - Error processing query: what department is prasad in?. Error: 'MiniNLPChatbot' object has no attribute 'handle_department_query'
+2024-11-28 13:38:48,369 - INFO - Processing query from user123: what is the date of birth of roll number 46?
+2024-11-28 13:38:48,454 - INFO - Fuzzy matching found name for query: what is the date of birth of roll number 46?
+2024-11-28 13:38:48,454 - INFO - Roll number for Pati susmitha  fetched for user123
+2024-11-28 13:38:59,787 - INFO - Processing query from user123: list all students
+2024-11-28 13:38:59,788 - INFO - Returning list of students for user123
+2024-11-28 13:38:59,788 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:38:59,837 - INFO - Fuzzy matching found name for query: what is the roll number of prasad?
+2024-11-28 13:38:59,837 - INFO - Roll number for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:38:59,837 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:38:59,883 - INFO - Fuzzy matching found name for query: what is the cgpa of prasad?
+2024-11-28 13:38:59,884 - INFO - CGPA for Challa Abishek fetched for user123
+2024-11-28 13:38:59,884 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:38:59,884 - INFO - Batch 2024 students fetched for user123
+2024-11-28 13:38:59,885 - INFO - Processing query from user123: what are the certifications of  46?
+2024-11-28 13:38:59,934 - INFO - Fuzzy matching found name for query: what are the certifications of  46?
+2024-11-28 13:38:59,934 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:38:59,985 - INFO - Fuzzy matching found name for query: what are the skills of prasad?
+2024-11-28 13:38:59,985 - INFO - Skills for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:38:59,986 - INFO - Processing query from user123: list the projects of prasad.
+2024-11-28 13:39:00,072 - INFO - Fuzzy matching found name for query: list the projects of prasad.
+2024-11-28 13:39:00,073 - INFO - Projects for SARAGADAM SAI PRASAD fetched for user123
+2024-11-28 13:39:00,074 - INFO - Processing query from user123: where does prasad live?
+2024-11-28 13:39:00,075 - INFO - Processing query from user123: what is the attendance of prasad?
+2024-11-28 13:39:00,077 - ERROR - Error processing query: what is the attendance of prasad?. Error: 'MiniNLPChatbot' object has no attribute 'handle_attendance_query'
+2024-11-28 13:39:00,077 - INFO - Processing query from user123: what department is prasad in?
+2024-11-28 13:39:00,078 - ERROR - Error processing query: what department is prasad in?. Error: 'MiniNLPChatbot' object has no attribute 'handle_department_query'
+2024-11-28 13:39:00,078 - INFO - Processing query from user123: what is the date of birth of roll number 46?
+2024-11-28 13:39:00,139 - INFO - Fuzzy matching found name for query: what is the date of birth of roll number 46?
+2024-11-28 13:39:00,140 - INFO - Roll number for Pati susmitha  fetched for user123
+2024-11-28 13:41:49,419 - INFO - Processing query from user123: List all students
+2024-11-28 13:41:49,420 - INFO - Processing query from user123: What is the roll number of Prasad?
+2024-11-28 13:41:49,473 - INFO - Processing query from user123: What is the CGPA of Prasad?
+2024-11-28 13:45:08,116 - INFO - Processing query from user123: list all students
+2024-11-28 13:45:08,117 - ERROR - Error fetching students: no such column: Department
+2024-11-28 13:45:08,117 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:45:08,175 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:45:08,177 - ERROR - Database error for roll number query: no such column: Department
+2024-11-28 13:45:08,179 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:45:08,235 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:45:08,293 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:45:08,294 - ERROR - Error fetching students: no such column: Department
+2024-11-28 13:45:08,294 - INFO - Processing query from user123: what certifications does prasad have?
+2024-11-28 13:48:14,035 - INFO - Processing query from user123: list all students
+2024-11-28 13:48:14,036 - ERROR - Database error fetching students: no such column: Department
+2024-11-28 13:48:14,036 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:48:14,085 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:48:14,086 - ERROR - Error in roll number query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\4141632949.py", line 126, in handle_roll_number_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:48:14,086 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:48:14,126 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:48:14,170 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:48:14,171 - ERROR - Error in batch query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\4141632949.py", line 219, in handle_batch_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:48:14,171 - INFO - Processing query from user123: what certifications does prasad have?
+2024-11-28 13:49:37,187 - INFO - Processing query from user123: list all students
+2024-11-28 13:49:37,188 - INFO - Returning list of students for user123
+2024-11-28 13:49:37,189 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:49:37,254 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:49:37,255 - ERROR - Error in roll number query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\2390699053.py", line 126, in handle_roll_number_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:49:37,255 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:49:37,314 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:49:37,375 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:49:37,375 - ERROR - Error in batch query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\2390699053.py", line 219, in handle_batch_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:49:37,375 - INFO - Processing query from user123: what certifications does prasad have?
+2024-11-28 13:49:57,652 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:49:57,716 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:49:57,717 - ERROR - Error in roll number query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\1996695926.py", line 126, in handle_roll_number_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:49:57,717 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:49:57,772 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:49:57,826 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:49:57,827 - ERROR - Error in batch query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\1996695926.py", line 219, in handle_batch_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:49:57,827 - INFO - Processing query from user123: what certifications does prasad have?
+2024-11-28 13:54:18,221 - INFO - Processing query from user123: list all students
+2024-11-28 13:54:18,223 - INFO - Returning list of students for user123
+2024-11-28 13:54:18,223 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:54:18,274 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:54:18,275 - ERROR - Error in roll number query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\191997225.py", line 126, in handle_roll_number_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:54:18,275 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:54:18,316 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:54:18,369 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:54:18,370 - ERROR - Error in batch query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\191997225.py", line 219, in handle_batch_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:54:18,370 - INFO - Processing query from user123: what certifications does prasad have?
+2024-11-28 13:54:18,425 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:54:36,605 - INFO - Processing query from user123: what is the roll number of prasad?
+2024-11-28 13:54:36,654 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 13:54:36,655 - ERROR - Error in roll number query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\3835529106.py", line 126, in handle_roll_number_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:54:36,655 - INFO - Processing query from user123: what is the cgpa of prasad?
+2024-11-28 13:54:36,703 - INFO - Processing query from user123: what are the skills of prasad?
+2024-11-28 13:54:36,751 - INFO - Processing query from user123: who are the students in the 2024 batch?
+2024-11-28 13:54:36,751 - ERROR - Error in batch query: Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Temp\ipykernel_17344\3835529106.py", line 219, in handle_batch_query
+    self.cursor.execute("""
+sqlite3.OperationalError: no such column: Department
+
+2024-11-28 13:54:36,751 - INFO - Processing query from user123: what certifications does prasad have?
+2024-11-28 13:54:36,807 - INFO - Fuzzy matched name: SARAGADAM SAI PRASAD
+2024-11-28 14:02:59,756 - INFO - Successfully connected to database: student_database.db
+2024-11-28 14:03:03,214 - WARNING - Config file chatbot_config.json not found. Using default settings.
+2024-11-28 14:03:26,555 - INFO - Processing query: what is the roll number of prasad
+2024-11-28 14:03:49,809 - INFO - Database connection closed
+2024-11-28 14:04:03,982 - INFO - Successfully connected to database: student_database.db
+2024-11-28 14:04:05,759 - WARNING - Config file chatbot_config.json not found. Using default settings.
+2024-11-28 14:04:20,652 - INFO - Processing query: what is the name of the roll number 5221412046
+2024-11-28 14:04:33,722 - INFO - Processing query: what is ml
+2024-11-28 14:04:45,728 - INFO - Database connection closed
+2024-11-28 14:08:58,299 - ERROR - Database query error: no such column: Attendance
+2024-11-28 14:08:58,338 - INFO - Database connection closed.
