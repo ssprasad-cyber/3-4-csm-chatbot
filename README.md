@@ -62,8 +62,8 @@ npm start
 Access the application at http://localhost:3000.
 ---
 ### 📸 Screenshots
-<img href="">
-<img href="">
+<img width='50px' src="https://github.com/ssprasad-cyber/3-4-csm-chatbot/screenshot/3-4-CSM-CHATBOT-12-01-2024_12_16_PM.png">
+<img width='50px' src="https://github.com/ssprasad-cyber/3-4-csm-chatbot/screenshot/3-4-CSM-CHATBOT-12-01-2024_12_17_PM.png">
 
 ---
 ## 👨‍💻 Team Members
