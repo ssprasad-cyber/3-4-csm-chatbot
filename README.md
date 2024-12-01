@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# 3/4 CSM Chatbot 🎓🤖
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Welcome to the 3/4 CSM Chatbot repository!**  
+This project facilitates seamless interaction with the student database, allowing users to query details like roll numbers, names, and other student-related information. Built with a combination of robust technologies, this chatbot is designed for efficiency and user-friendliness.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- **Student Query Resolution:** Ask questions like *"What is the roll number of Prasad?"* and get instant responses.
+- **Natural Language Understanding:** Built with NLP for intuitive query handling.
+- **Interactive Frontend:** A React-powered UI for smooth user experience.
+- **Backend API:** Flask-based backend to handle requests efficiently.
+- **Database Management:** SQLite for storing and managing student data.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
 
-### `npm test`
+- **Python**: Core programming language.
+- **NLP**: For natural language processing and query understanding.
+- **SpaCy**: To implement NLP tasks like entity recognition.
+- **Flask**: Backend framework for API development.
+- **SQLite**: Lightweight database to store student records.
+- **React**: Frontend library for building the user interface.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
+## 🔗 Important Links
 
-### `npm run build`
+- [GitHub Repository](https://github.com/ssprasad-cyber/3-4-csm-chatbot/)  
+- [Hosted Application](https://3-4-csm-chatbot.vercel.app/)  
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Setup Instructions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Follow these steps to set up the project on your local machine:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 1️⃣ Clone the Repository:
+```bash
+git clone https://github.com/your-github-username/3-4-csm-chatbot.git
+cd 3-4-csm-chatbot
+```
+### 2️⃣ Set Up the Backend:
+Navigate to the backend folder and install dependencies:
+```bash
+cd backend
+pip install -r requirements.txt
+```
+Start the Flask server:
+```bash
+python app.py
+```
+### 3️⃣ Set Up the Frontend
+Navigate to the frontend folder and install dependencies:
+```bash
+npm install
+```
+Start the React development server:
+```bash
+npm start
+```
+Access the application at http://localhost:3000.
+---
+### 📸 Screenshots
+<img href="">
+<img href="">
 
-### `npm run eject`
+---
+## 👨‍💻 Team Members
+Sai Prasad
+Pranitham
+Revanth
+Vishnu Vardan
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🤝 Contributing
+We welcome contributions to enhance the 3/4 CSM Chatbot! To contribute:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Fork the repository.
+- Create a new branch: git checkout -b feature-name.
+- Make your changes and commit them: git commit -m "Description of changes".
+- Push to the branch: git push origin feature-name.
+- Submit a pull request.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎉 Acknowledgments
+This project was developed as part of the Machine Learning Project Expo organized by the CSE AI & ML Department in collaboration with the India Innovation Console (IIC). Special thanks to our mentors and peers for their guidance and support.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
